@@ -1,0 +1,194 @@
+  /home/bill/rails_app/first_app:
+  total 60
+  drwxrwxr-x. 8 bill bill 4096 Dec 17 16:17 app
+  drwxr-xr-x. 2 bill bill 4096 Dec 17 16:17 bin
+  drwxrwxr-x. 5 bill bill 4096 Dec 17 16:17 config
+  -rw-rw-r--. 1 bill bill  153 Dec 17 16:17 config.ru
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 db
+  -rw-rw-r--. 1 bill bill    0 Dec 17 17:04 dired
+  -rw-rw-r--. 1 bill bill 1502 Dec 17 16:17 Gemfile
+  -rw-rw-r--. 1 bill bill 3873 Dec 17 16:45 Gemfile.lock
+  drwxrwxr-x. 4 bill bill 4096 Dec 17 16:17 lib
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 log
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 public
+  -rw-rw-r--. 1 bill bill  249 Dec 17 16:17 Rakefile
+  -rw-rw-r--. 1 bill bill  478 Dec 17 16:17 README.rdoc
+  drwxrwxr-x. 8 bill bill 4096 Dec 17 16:17 test
+  drwxrwxr-x. 3 bill bill 4096 Dec 17 16:17 tmp
+  drwxrwxr-x. 3 bill bill 4096 Dec 17 16:17 vendor
+
+  /home/bill/rails_app/first_app/app:
+  total 24
+  drwxrwxr-x. 5 bill bill 4096 Dec 17 16:17 assets
+  drwxrwxr-x. 3 bill bill 4096 Dec 17 16:17 controllers
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 helpers
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 mailers
+  drwxrwxr-x. 3 bill bill 4096 Dec 17 16:17 models
+  drwxrwxr-x. 3 bill bill 4096 Dec 17 16:17 views
+
+  /home/bill/rails_app/first_app/app/assets:
+  total 12
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 images
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 javascripts
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 stylesheets
+
+  /home/bill/rails_app/first_app/app/assets/images:
+  total 0
+
+  /home/bill/rails_app/first_app/app/assets/javascripts:
+  total 4
+  -rw-rw-r--. 1 bill bill 661 Dec 17 16:17 application.js
+
+  /home/bill/rails_app/first_app/app/assets/stylesheets:
+  total 4
+  -rw-rw-r--. 1 bill bill 686 Dec 17 16:17 application.css
+
+  /home/bill/rails_app/first_app/app/controllers:
+  total 8
+  -rw-rw-r--. 1 bill bill  204 Dec 17 16:17 application_controller.rb
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 concerns
+
+  /home/bill/rails_app/first_app/app/controllers/concerns:
+  total 0
+
+  /home/bill/rails_app/first_app/app/helpers:
+  total 4
+  -rw-rw-r--. 1 bill bill 29 Dec 17 16:17 application_helper.rb
+
+  /home/bill/rails_app/first_app/app/mailers:
+  total 0
+
+  /home/bill/rails_app/first_app/app/models:
+  total 4
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 concerns
+
+  /home/bill/rails_app/first_app/app/models/concerns:
+  total 0
+
+  /home/bill/rails_app/first_app/app/views:
+  total 4
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 layouts
+
+  /home/bill/rails_app/first_app/app/views/layouts:
+  total 4
+  -rw-rw-r--. 1 bill bill 298 Dec 17 16:17 application.html.erb
+
+  /home/bill/rails_app/first_app/bin:
+  total 16
+  -rwxr-xr-x. 1 bill bill 129 Dec 17 16:17 bundle
+  -rwxr-xr-x. 1 bill bill 145 Dec 17 16:17 rails
+  -rwxr-xr-x. 1 bill bill  90 Dec 17 16:17 rake
+  -rwxr-xr-x. 1 bill bill 805 Dec 17 16:17 setup
+
+  /home/bill/rails_app/first_app/config:
+  total 36
+  -rw-rw-r--. 1 bill bill 1115 Dec 17 16:17 application.rb
+  -rw-rw-r--. 1 bill bill  132 Dec 17 16:17 boot.rb
+  -rw-rw-r--. 1 bill bill  552 Dec 17 16:17 database.yml
+  -rw-rw-r--. 1 bill bill  150 Dec 17 16:17 environment.rb
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 environments
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 initializers
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 locales
+  -rw-rw-r--. 1 bill bill 1601 Dec 17 16:17 routes.rb
+  -rw-rw-r--. 1 bill bill  964 Dec 17 16:17 secrets.yml
+
+  /home/bill/rails_app/first_app/config/environments:
+  total 12
+  -rw-rw-r--. 1 bill bill 1600 Dec 17 16:17 development.rb
+  -rw-rw-r--. 1 bill bill 3304 Dec 17 16:17 production.rb
+  -rw-rw-r--. 1 bill bill 1755 Dec 17 16:17 test.rb
+
+  /home/bill/rails_app/first_app/config/initializers:
+  total 32
+  -rw-rw-r--. 1 bill bill 486 Dec 17 16:17 assets.rb
+  -rw-rw-r--. 1 bill bill 404 Dec 17 16:17 backtrace_silencers.rb
+  -rw-rw-r--. 1 bill bill 129 Dec 17 16:17 cookies_serializer.rb
+  -rw-rw-r--. 1 bill bill 194 Dec 17 16:17 filter_parameter_logging.rb
+  -rw-rw-r--. 1 bill bill 647 Dec 17 16:17 inflections.rb
+  -rw-rw-r--. 1 bill bill 156 Dec 17 16:17 mime_types.rb
+  -rw-rw-r--. 1 bill bill 141 Dec 17 16:17 session_store.rb
+  -rw-rw-r--. 1 bill bill 517 Dec 17 16:17 wrap_parameters.rb
+
+  /home/bill/rails_app/first_app/config/locales:
+  total 4
+  -rw-rw-r--. 1 bill bill 634 Dec 17 16:17 en.yml
+
+  /home/bill/rails_app/first_app/db:
+  total 4
+  -rw-rw-r--. 1 bill bill 343 Dec 17 16:17 seeds.rb
+
+  /home/bill/rails_app/first_app/lib:
+  total 8
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 assets
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 tasks
+
+  /home/bill/rails_app/first_app/lib/assets:
+  total 0
+
+  /home/bill/rails_app/first_app/lib/tasks:
+  total 0
+
+  /home/bill/rails_app/first_app/log:
+  total 0
+
+  /home/bill/rails_app/first_app/public:
+  total 16
+  -rw-rw-r--. 1 bill bill 1564 Dec 17 16:17 404.html
+  -rw-rw-r--. 1 bill bill 1547 Dec 17 16:17 422.html
+  -rw-rw-r--. 1 bill bill 1477 Dec 17 16:17 500.html
+  -rw-rw-r--. 1 bill bill    0 Dec 17 16:17 favicon.ico
+  -rw-rw-r--. 1 bill bill  202 Dec 17 16:17 robots.txt
+
+  /home/bill/rails_app/first_app/test:
+  total 28
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 controllers
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 fixtures
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 helpers
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 integration
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 mailers
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 models
+  -rw-rw-r--. 1 bill bill  312 Dec 17 16:17 test_helper.rb
+
+  /home/bill/rails_app/first_app/test/controllers:
+  total 0
+
+  /home/bill/rails_app/first_app/test/fixtures:
+  total 0
+
+  /home/bill/rails_app/first_app/test/helpers:
+  total 0
+
+  /home/bill/rails_app/first_app/test/integration:
+  total 0
+
+  /home/bill/rails_app/first_app/test/mailers:
+  total 0
+
+  /home/bill/rails_app/first_app/test/models:
+  total 0
+
+  /home/bill/rails_app/first_app/tmp:
+  total 4
+  drwxrwxr-x. 3 bill bill 4096 Dec 17 16:17 cache
+
+  /home/bill/rails_app/first_app/tmp/cache:
+  total 4
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 assets
+
+  /home/bill/rails_app/first_app/tmp/cache/assets:
+  total 0
+
+  /home/bill/rails_app/first_app/vendor:
+  total 4
+  drwxrwxr-x. 4 bill bill 4096 Dec 17 16:17 assets
+
+  /home/bill/rails_app/first_app/vendor/assets:
+  total 8
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 javascripts
+  drwxrwxr-x. 2 bill bill 4096 Dec 17 16:17 stylesheets
+
+  /home/bill/rails_app/first_app/vendor/assets/javascripts:
+  total 0
+
+  /home/bill/rails_app/first_app/vendor/assets/stylesheets:
+  total 0
